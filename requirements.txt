@@ -1,0 +1,11 @@
+langchain>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+pypdf>=5
+fastembed>=0.4
+mlx-lm>=0.20
+
+# Optional. Used only when the matching API key is set:
+#   pip install langchain-openai       # OPENAI_API_KEY
+#   pip install langchain-anthropic    # ANTHROPIC_API_KEY
+#   pip install langchain-google-genai # GOOGLE_API_KEY
